@@ -1,0 +1,5 @@
+Predicting survision class of passangers who were died in Titaic Ship from years.
+The RandomForestCLassifier scores is 97% surly, if give it new istance it predict perfectly.
+using pipeline that tansfrom new instance to algorithm to predict.
+some final note if I could use other classifier such as SGDClassifier or SVC, I`ll get
+lowest precision and recall.
